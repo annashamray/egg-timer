@@ -1,0 +1,15 @@
+#start-section {
+    display: block;
+}
+
+#menu-section {
+    display: none;
+}
+
+#timer-section {
+    display: none;
+}
+
+#done-section {
+    display: none;
+}
